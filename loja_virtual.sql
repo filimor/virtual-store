@@ -63,3 +63,5 @@ INSERT INTO tb_pedidos_produtos(id_pedido, id_produto) VALUES (2, 3);
 INSERT INTO tb_clientes(nome,idade) VALUES ('Jamilton', 30);
 INSERT INTO tb_pedidos(id_cliente) VALUES (2);
 INSERT INTO tb_pedidos_produtos(id_pedido, id_produto) VALUES (3, 1);
+
+INSERT INTO tb_produto(produto, valor) VALUES ('HD Externo Portátil Seagate Expansion 1TB USB 3.0', 274.90);
